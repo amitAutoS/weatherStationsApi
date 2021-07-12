@@ -11,7 +11,7 @@ Karate, Java, JUnit5, Maven
 ## Getting Started
 ```
 git clone git@github.com:amitAutoS/weatherStationsApi.git
-cd 
+cd weatherStationsApi
 mvn clean test -Dtest=TestRunner
 ```
 
